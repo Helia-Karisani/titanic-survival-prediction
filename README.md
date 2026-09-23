@@ -197,9 +197,9 @@ Also, there might be some correlation matrices required to know the relationship
 
 ## Files
 
-- `titanic-survival-prediction.ipynb` — main notebook
-- `header.png` — project header image
-- `confusion-matrix-randomforest.png` — Random Forest confusion matrix
-- `confusion-matrix-logisticregression.png` — Logistic Regression confusion matrix
-- `feature-bar-randomforest.png` — Random Forest feature importance plot
-- `feature-bar-logisticregression.png` — Logistic Regression coefficient magnitude plot
+- `titanic-survival-prediction.ipynb`, main notebook
+- `header.png`, project header image
+- `confusion-matrix-randomforest.png`, Random Forest confusion matrix
+- `confusion-matrix-logisticregression.png`, Logistic Regression confusion matrix
+- `feature-bar-randomforest.png`, Random Forest feature importance plot
+- `feature-bar-logisticregression.png`, Logistic Regression coefficient magnitude plot
